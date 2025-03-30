@@ -10,12 +10,16 @@ Topics Covered in This Section
 
 A simple introduction to the syntax of C, including the basic structure of a C program.
 
-## 2. Variables and Data Types
+## 2. Data Types
 
-Understanding how to declare and use variables, and how C handles different
+Understanding how C handles different
 types of data.
 
-## 3. Operators
+## 3. Variables
+
+Understanding how to declare and use variables
+
+## 4. Operators
 
 An overview of the basic operators in C, including arithmetic, relational,
 logical, and bitwise operators.
