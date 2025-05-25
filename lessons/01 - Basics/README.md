@@ -23,3 +23,6 @@ Understanding how to declare and use variables
 
 An overview of the basic operators in C, including arithmetic, relational,
 logical, and bitwise operators.
+
+## 5. User Input
+How to take user input.

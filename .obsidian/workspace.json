@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Basics/02 - Data Types/README.md",
+                "file": "01 - Basics/04 - Operators/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,11 +170,17 @@
   },
   "active": "c297940b046dfe8f",
   "lastOpenFiles": [
+    "01 - Basics/03 - Variables/README.md",
+    "01 - Basics/04 - Operators/README.md",
+    "01 - Basics/README.md",
+    "04 - Arrays and Strings/README.md",
+    "06 - Structs and Unions/README.md",
+    "08 - File Operations/README.md",
+    "09 - Data Structures/README.md",
+    "01 - Basics/02 - Data Types/README.md",
     "01 - Basics/02 - Data Types/data_types.c~",
     "01 - Basics/02 - Data Types/README.md~",
     "01 - Basics/02 - Data Types/data_types.c",
-    "01 - Basics/README.md",
-    "01 - Basics/02 - Data Types/README.md",
     "01 - Basics/01 - Hello World/README.md",
     "01 - Basics/02 - Data Types"
   ]
